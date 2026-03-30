@@ -78,10 +78,6 @@
 
 ---
 
-## 📌 Notes 
 
-* Backend จะรันที่ `http://localhost:3000`
-* Frontend จะรันที่ `http://localhost:5173`
-* ต้องเปิด backend ก่อน แล้วค่อยเปิด frontend ไม่งั้นจะเรียก API ไม่ได้
 
 
