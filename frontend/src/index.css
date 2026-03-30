@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  :root.dark {
+    color-scheme: dark;
+  }
+
+  body {
+    transition: background-color 0.3s, color 0.3s;
+  }
+}
